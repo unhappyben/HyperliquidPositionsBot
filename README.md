@@ -48,7 +48,9 @@ npm start
 - `!positions [wallet]`: Display positions for all or a specific wallet
 
 ## Sample of Outputs 
+!positions 
 <img width="447" alt="image" src="https://github.com/user-attachments/assets/86cf72d3-90df-40fd-8cc7-84c9ddccf96a">
+
 
 <img width="585" alt="image" src="https://github.com/user-attachments/assets/4226e783-6a84-4b76-8173-4f18d18b50a3">
 
