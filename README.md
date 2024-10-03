@@ -48,14 +48,17 @@ npm start
 - `!positions [wallet]`: Display positions for all or a specific wallet
 
 ## Sample of Outputs 
-!positions 
+### Example of !positions 
 <img width="447" alt="image" src="https://github.com/user-attachments/assets/86cf72d3-90df-40fd-8cc7-84c9ddccf96a">
 
-
+### Example of !namewallet 
 <img width="585" alt="image" src="https://github.com/user-attachments/assets/4226e783-6a84-4b76-8173-4f18d18b50a3">
 
+### Example of !removewallet 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/094920ad-16d8-4d4b-90b3-86376304e812">
 
+### Example of !help 
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/c43e5264-bfb7-4ec5-b8df-ffbc6afda3cf">
 
 ## Configuration
 The bot's configuration can be changed and updated in the CONFIG object within main script file. 
