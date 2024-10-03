@@ -1,13 +1,13 @@
 {
   "name": "hyperliquid",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A Discord bot for tracking Hyperliquid positions",
+  "main": "hyperliquid-positions-bot.mjs",
+  "type": "module",
   "scripts": {
+    "start": "node hyperliquid-positions-bot.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.7",
