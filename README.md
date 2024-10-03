@@ -47,6 +47,14 @@ npm start
 - `!removewallet [address]`: Remove a wallet
 - `!positions [wallet]`: Display positions for all or a specific wallet
 
+## Sample of Outputs 
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/86cf72d3-90df-40fd-8cc7-84c9ddccf96a">
+
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/4226e783-6a84-4b76-8173-4f18d18b50a3">
+
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/094920ad-16d8-4d4b-90b3-86376304e812">
+
+
 ## Configuration
 The bot's configuration can be changed and updated in the CONFIG object within main script file. 
 
